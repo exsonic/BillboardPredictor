@@ -1,9 +1,9 @@
-Bobi Pu
+Predict Top50 songs for next week
+---------------------------------
+
 bobi.pu@usc.edu
 
 Get data from Youtube, Facebook, Twitter, Streaming, Airplay, Sales, IMVDB, MTV, etc.
-
-To predict Top50 songs for next week.
 
 For details, please check this paper.
 
